@@ -39,3 +39,7 @@ XGBoost, Matplotlib, Seaborn, SMOTE
 1. Open notebook in Google Colab
 2. Upload cs-training.csv dataset
 3. Run all cells in order
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/balveer-saini
+- GitHub: github.com/BalveerSaini5912
